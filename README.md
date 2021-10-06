@@ -9,6 +9,7 @@ Depicted below are both the original and refactored script execution times for t
 Results
 ![image](https://user-images.githubusercontent.com/89875689/136295652-18639096-5247-4d1a-9feb-766a5d2067d9.png)
 ![image](https://user-images.githubusercontent.com/89875689/136295672-5f17b591-c6ab-4e10-935d-41ee1a95633d.png)
+
 ![image](https://user-images.githubusercontent.com/89875689/136295685-a14e95ec-6b23-4238-84e5-494e411cbdb5.png)
 ![image](https://user-images.githubusercontent.com/89875689/136295693-c33eafef-4699-43ad-9c24-a4e7acd161ed.png)
 
